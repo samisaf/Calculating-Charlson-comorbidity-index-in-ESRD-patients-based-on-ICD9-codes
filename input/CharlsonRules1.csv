@@ -1,0 +1,19 @@
+Group,Description,Factor
+1,Myocardial Infarction,2
+2,Congestive Heart Failure,2
+3,Peripheral Vascular Disease,1
+4,Cerebrovascular Disease,2
+5,Dementia,1
+6,Chronic Pulmonary Disease,1
+7,Connective Tissue Disease,1
+8,Peptic Ulcer Disease,1
+9,Mild Liver Disease,0
+10,Diabetes without Complications,2
+11,Diabetes with Complications,3
+12,Hemiplegia or Paraplegia,0
+13,Moderate or Severe Renal Disease,0
+14,Malignancy without Metastases,0
+15,Lymphoma or Leukemia,7
+16,Moderate or Severe Liver Disease,2
+17,Metastatic Solid Tumor,10
+18,AIDS,0
